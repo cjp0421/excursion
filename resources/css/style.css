@@ -26,6 +26,31 @@ a {
 
 video {
     display: block;
-    margin: 0 auto;
+    margin: auto;
     background-color: #fff;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    color: #fff;
+    text-align: center;
+}
+
+.phone-icon {
+    color: #fff;
+    width: 5%;
+}
+
+.copyright {
+    text-align: end;
+    font-size: x-small;
+    color: gray;
+}
+
+.footer-link {
+    font-size: 12px;
 }
